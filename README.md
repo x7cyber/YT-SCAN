@@ -1,11 +1,11 @@
 # Judul Utama
 ## YT-SCAN
-#### ©Created by M-Cyber 🔐
+##### ©Created by M-Cyber 🔐
 
-# APA ITU YT-SCAN ?
+# APA ITU YT-SCAN?
 * YT-SCAN adalah sebuah Tools/Alat untuk mengambil informasi dari sebuah url/link dari video YouTube!
-* YT-SCAN bisa menjadi alat untuk scraping video YouTube ❗
-## APA FITUR DI DALAMNYA ❓
+* YT-SCAN bisa menjadi alat untuk scraping video YouTube❗
+## APA FITUR DI DALAMNYA❓
 #### [+] informasi yang bisa kalian dapatkan 🔐
 * Nama Channel
 * ID Channel 
@@ -23,7 +23,7 @@
 ## Untuk saat ini baru Tersedia di Termux 🙁
 #
 #
-# Install in Termux 🤖
+# Install in Termux🤖
 #### Install dependensi yang diperlukan 
 ## update dan upgrade Termux 
 ```
@@ -31,11 +31,11 @@ apt update && apt upgrade
 ```
 ## Install Python 
 ```
-apt install python
+apt install python -y 
 ```
 ## Install Git
 ```
-apt install git
+apt install git -y 
 ```
 ## Clone repository YT-SCAN 
 ```
