@@ -6,7 +6,7 @@
 * YT-SCAN adalah sebuah Tools/Alat untuk mengambil informasi dari sebuah url/link dari video YouTube!
 * YT-SCAN bisa menjadi alat untuk scraping video YouTube❗
 ## APA FITUR DI DALAMNYA❓
-#### [+] informasi yang bisa kalian dapatkan 🔐
+#### [ + ] informasi yang bisa kalian dapatkan!
 * Nama Channel
 * ID Channel 
 * Url Channel 
