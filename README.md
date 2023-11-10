@@ -22,7 +22,6 @@
 #
 ## Untuk saat ini baru Tersedia di Termux 🙁
 #
-#
 # Install in Termux🤖
 #### Install dependensi yang diperlukan 
 ## update dan upgrade Termux 
@@ -55,7 +54,7 @@ python yt-scan.py
 ```
 #
 #
-###### Masih Terdapat sedikit Bug pada Tools!
+##### Masih Terdapat sedikit Bug pada Tools!
 #
 # Panduan untuk Pengguna 🔐
 
