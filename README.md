@@ -55,6 +55,8 @@ python yt-scan.py
 ```
 #
 #
+###### Masih Terdapat sedikit Bug pada Tools!
+#
 # Panduan untuk Pengguna 🔐
 
 ## Perhatian: 
@@ -77,4 +79,5 @@ Silakan gunakan YT-SCAN dengan bijak dan sesuai dengan hukum setempat.
 #
 #
 #### Thanks 🇮🇩
+#
 Tautan ke [halaman lain](URL)
