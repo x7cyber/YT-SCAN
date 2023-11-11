@@ -1,5 +1,4 @@
-# Judul Utama
-## YT-SCAN
+# YT-SCAN
 ##### ©Created by M-Cyber 🔐
 
 # APA ITU YT-SCAN?
@@ -79,4 +78,3 @@ Silakan gunakan YT-SCAN dengan bijak dan sesuai dengan hukum setempat.
 #
 #### Thanks 🇮🇩
 #
-Tautan ke [halaman lain](URL)
