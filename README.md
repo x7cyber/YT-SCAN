@@ -2,6 +2,7 @@
 ##### ©Created by M-Cyber 🔐
 
 # APA ITU YT-SCAN?
+![Logo](banner.jpg)
 * YT-SCAN adalah sebuah Tools/Alat untuk mengambil informasi dari sebuah url/link dari video YouTube!
 * YT-SCAN bisa menjadi alat untuk scraping video YouTube❗
 ## APA FITUR DI DALAMNYA❓
@@ -19,42 +20,67 @@
 * Thumbnail url ⚠️
 #### Fitur canggih dari YT-SCAN ini adalah : Pengambilan Thumbnail YouTube 🤫
 #
-## Untuk saat ini baru Tersedia di Termux 🙁
+### PENGINSTALAN 🚀
+* Termux
+* Kali Linux 
 #
-# Install in Termux🤖
+# Untuk Termux ❗
 #### Install dependensi yang diperlukan 
-## update dan upgrade Termux 
+### update dan upgrade Termux 
 ```
 apt update && apt upgrade
 ```
-## Install Python 
+### Install Python 
 ```
 apt install python -y 
 ```
-## Install Git
+### Install Git
 ```
 apt install git -y 
 ```
-## Clone repository YT-SCAN 
+### Clone repository YT-SCAN 
 ```
 git clone https://github.com/M-Cyber7/YT-SCAN
 ```
-## Masuk ke direktori YT-SCAN 
+### Masuk ke direktori YT-SCAN 
 ```
 cd YT-SCAN
 ```
-## Install modul yg diperlukan YT-SCAN 
+### Install modul yg diperlukan YT-SCAN 
 ```
 python install.py
 ```
-## Jalankan YT-SCAN 
+### Jalankan YT-SCAN 
+```
+python yt-scan.py
+```
+### Done 🔥
+#
+# __________________
+#
+# KALI LINUX ❗
+### Clone repository
+```
+git clone https://github.com/M-Cyber7/YT-SCAN
+```
+### Masuk ke direktori
+```
+cd YT-SCAN 
+```
+### install modul secara manual
+```
+pip install pytube requests
+```
+### Jalankan Tools 
 ```
 python yt-scan.py
 ```
 #
-#
 ##### Masih Terdapat sedikit Bug pada Tools!
-#
+##### Mohon laporkan bug kepada pembuat melalui Media
+* [TikTok](https://tiktok.com/@educationm_cyber_29)
+* [Facebook](https://www.facebook.com/profile.php?id=61551079130055)
+* [Instagram](https://instagram.com/codingindonesia_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 # Panduan untuk Pengguna 🔐
 
 ## Perhatian: 
