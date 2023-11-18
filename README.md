@@ -56,7 +56,7 @@ python yt-scan.py
 ```
 ### Done 🔥
 #
-# __________________
+ __________________
 #
 # KALI LINUX ❗
 ### Clone repository
