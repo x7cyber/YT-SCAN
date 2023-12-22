@@ -1,4 +1,3 @@
-# YT-SCAN
 ##### ©Created by M-Cyber 🔐
 
 # APA ITU YT-SCAN?
@@ -38,19 +37,19 @@ apt install python -y
 ```
 apt install git -y 
 ```
-### Clone repository YT-SCAN 
+### Clone repository
 ```
 git clone https://github.com/M-Cyber7/YT-SCAN
 ```
-### Masuk ke direktori YT-SCAN 
+### Masuk ke direktori
 ```
 cd YT-SCAN
 ```
-### Install modul yg diperlukan YT-SCAN 
+### Install modul yg diperlukan
 ```
 python install.py
 ```
-### Jalankan YT-SCAN 
+### Jalankan
 ```
 python yt-scan.py
 ```
@@ -77,10 +76,6 @@ python yt-scan.py
 ```
 #
 ##### Masih Terdapat sedikit Bug pada Tools!
-##### Mohon laporkan bug kepada pembuat melalui Media
-* [TikTok](https://tiktok.com/@educationm_cyber_29)
-* [Facebook](https://www.facebook.com/profile.php?id=61551079130055)
-* [Instagram](https://instagram.com/codingindonesia_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 # Panduan untuk Pengguna 🔐
 
 ## Perhatian: 
@@ -104,3 +99,9 @@ Silakan gunakan YT-SCAN dengan bijak dan sesuai dengan hukum setempat.
 #
 #### Thanks 🇮🇩
 #
+##### [~] Saya ada di ↓↓↓
+[![Facebook](https://img.shields.io/badge/Facebook-Pengguna_Sosmed-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=61551079130055)
+[![Instagram](https://img.shields.io/badge/Instagram-@codingindonesia-orange?style=for-the-badge&logo=Instagram)](https://instagram.com/codingindonesia_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+[![Tiktok](https://img.shields.io/badge/Tiktok-@Cyber_M-black?style=for-the-badge&logo=Tiktok)](https://tiktok.com/@educationm_cyber_29)
+
+
