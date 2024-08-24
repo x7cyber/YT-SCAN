@@ -1,4 +1,4 @@
-##### ©Created by M-Cyber 🔐
+##### © Created by x7cyber 🔐
 
 # APA ITU YT-SCAN?
 ![Logo](banner.jpg)
